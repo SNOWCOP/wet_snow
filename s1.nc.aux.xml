@@ -55,6 +55,22 @@
           <MDI key="STATISTICS_STDDEV">1.4690197840114</MDI>
         </Metadata>
       </PAMRasterBand>
+      <PAMRasterBand band="4">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">41.385070800781</MDI>
+          <MDI key="STATISTICS_MEAN">0.72471760828297</MDI>
+          <MDI key="STATISTICS_MINIMUM">0.00054327899124473</MDI>
+          <MDI key="STATISTICS_STDDEV">1.6577889626962</MDI>
+        </Metadata>
+      </PAMRasterBand>
+      <PAMRasterBand band="5">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">41.039234161377</MDI>
+          <MDI key="STATISTICS_MEAN">0.72304436219342</MDI>
+          <MDI key="STATISTICS_MINIMUM">0.00054223305778578</MDI>
+          <MDI key="STATISTICS_STDDEV">1.6668568723521</MDI>
+        </Metadata>
+      </PAMRasterBand>
     </PAMDataset>
   </Subdataset>
   <Subdataset name="VH">
