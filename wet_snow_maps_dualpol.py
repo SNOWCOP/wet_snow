@@ -4,6 +4,7 @@
 Created on Thu Jan 15 12:16:14 2026
 
 @author: vpremier
+wit the contribution of Sander van Rijsewijk
 """
 import geopandas as gpd
 import openeo
